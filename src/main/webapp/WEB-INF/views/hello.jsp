@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>You are great!</h1>
-	<h3>v2.0</h3>
+	<h3>v3.0</h3>
 </body>
 </html>
